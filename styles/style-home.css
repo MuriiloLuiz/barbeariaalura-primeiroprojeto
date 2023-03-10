@@ -1,0 +1,91 @@
+header {
+	background: #BBBBBB;
+	padding: auto;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+	font-family: sans-serif;
+}
+
+nav {
+	position: absolute;
+ 	top: 110px;
+ 	right: 0px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: full-width;
+	text-decoration: none;
+	color: #000000;
+	font-size: 23px;
+	font-weight: bold;
+}
+
+nav a:hover {
+	text-decoration: underline;
+	color: #FFD700;
+}
+
+#titulo {
+	font-size: 22px;
+	text-decoration: underline;
+}
+
+strong {
+	text-decoration: underline;
+}
+
+.principal {
+	padding: 20px;
+	font-family: sans-serif;
+	background: #A9A9A9;
+}
+
+.principal p {
+	height: 33px;
+	width: 1000px;
+
+}
+
+#banner {
+	padding: 10px 0;
+	width: 50%;
+	display: inline;
+}
+
+#titulocentralizado {
+	font-size: 22px;
+	text-decoration: underline;
+	height: 37px;
+}
+
+.pros {
+	background: #A9A9A9;
+	font-size: 20px;
+	font-family: sans-serif;
+	padding: 20px 20px;
+}
+
+
+footer {
+	background: url(bg.jpg);
+	text-align: center;
+	padding: 40px 0px;
+}
+
+
+
+.copyright {
+	color: white;
+	font-size: 13px;
+	margin-top: 20px;
+}
+
